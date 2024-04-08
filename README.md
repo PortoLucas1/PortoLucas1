@@ -2,12 +2,12 @@
 
 Olá! 👋🏻
 
-Sou Customer Success Engineer na [Oracle](https://www.oracle.com/br/), focado em garantir a satisfação dos clientes resolvendo os problemas mais inesperados 👀.
+Sou Customer Success Engineer na [Oracle](https://www.oracle.com/br/), focado em garantir a satisfação dos clientes resolvendo os problemas mais inesperados 👀.\
 O que mais gosto é de compartilhar conhecimento e soluções inovadoras desenvolvidas na nuvem ☁️.
 
-🔭 Atualmente estou trabalhando em um projeto Airflow para ajudar nas finanças.
-🎲 Em 2024, estou me dedicando a projetos de engenharia de dados.
-💬 Sinta-se à vontade para entrar em contato comigo no [LinkedIn](https://www.linkedin.com/in/portolucas)!
+- 🔭 Atualmente estou trabalhando em um projeto Airflow para ajudar nas finanças.
+- 🎲 Em 2024, estou me dedicando a projetos de engenharia de dados.
+- 💬 Sinta-se à vontade para entrar em contato comigo no [LinkedIn](https://www.linkedin.com/in/portolucas)!
 
 <!--
 **PortoLucas1/PortoLucas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
