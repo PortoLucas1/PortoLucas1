@@ -2,7 +2,7 @@
 
 Olá! 👋🏻
 
-Sou Customer Success Engineer na [Oracle](https://www.oracle.com/br/), focado em garantir a satisfação dos clientes resolvendo os problemas mais inesperados 👀.\
+Sou Customer Success Engineer na [Oracle](https://www.oracle.com/br/), focado em garantir a satisfação dos clientes.\
 O que mais gosto é de compartilhar conhecimento e soluções inovadoras desenvolvidas na nuvem ☁️.
 
 - 🔭 Atualmente estou trabalhando em um projeto Airflow para ajudar nas finanças.
