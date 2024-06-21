@@ -2,7 +2,7 @@
 
 Olá! 👋🏻
 
-Sou Customer Success Engineer, focado em garantir a satisfação dos clientes.\
+Atualmente sou Customer Cloud & Data Engineer. \
 O que mais gosto é de compartilhar conhecimento e soluções inovadoras desenvolvidas na nuvem ☁️.
 
 - 🔭 Atualmente estou trabalhando em um projeto Airflow para ajudar nas finanças.
